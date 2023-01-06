@@ -13,7 +13,7 @@ We hope it would be interesting. Please take a look.
 """
 
 """
-MCQ generated on the iconic Hollywood Movie "The God Father":
+(1). MCQ generated on the iconic Hollywood Movie "The God Father":
 
 """
 
@@ -31,7 +31,7 @@ st.dataframe(data1)
 """
 Hope this one is interesting!!!
 
-Take a look at another set of MCQ generated on the Maratha King Chatrapathi Shivaji"
+(2). Take a look at another set of MCQ generated on the Maratha King Chatrapathi Shivaji"
 """
 
 data2 = pd.read_csv('MCQ.csv')
