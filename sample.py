@@ -13,10 +13,10 @@ Please take a look.
 """
 
 
-    data1 = pd.read_csv('Godfather_MCQ.csv')
+data1 = pd.read_csv('Godfather_MCQ.csv')
     
  
-    st.altair_chart(alt.Chart(pd.DataFrame(data1), height=500, width=500)
-        .mark_circle(color='#0068c9', opacity=0.5)
-        .encode(x='x:Q', y='y:Q'))
-    st.dataframe(data1)
+st.altair_chart(alt.Chart(pd.DataFrame(data1), height=500, width=500)
+    .mark_circle(color='#0068c9', opacity=0.5)
+    .encode(x='x:Q', y='y:Q'))
+st.dataframe(data1)
