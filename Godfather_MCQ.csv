@@ -1,0 +1,15 @@
+,Question,Correct_Answer,mcoptions
+0,Who directed The Godfather?,Francis Ford Coppola, (A)William H. Macy (B) Anthony Hopkins (C) Francis Ford Coppola (D) Robert Zemeckis
+1,Who wrote the screenplay for The Godfather?,Mario Puzo, (A) George Lucas (B) Robert Rodriguez (C) Anthony Mendoza (D) Mario Puzo ; $mcoptions$ = (A) George Lucas (E) Roberto Orci (G) Anthony Mendoza Jr.
+2,Who was the patriarch of the Corleone family?,Vito Corleone, (A) Agnes (B) Agnes's son (C) Vito Corleone (D) Maria Corleone
+3,Who was the youngest son of Vito Corleone?,Michael Corleone, (A) George Corleone (B) Louis Corleone (C) Michael Corleone (D) Anthony Corleone
+4,How much did Paramount get the rights to the novel?,"$80,000"," (A) $80,000 (B) $90,000 (C) $80,000 (D) $90,000"
+5,Who had trouble finding a director for The Godfather?,Studio executives, (A) A production company (B) A production company (C)Studio executives (D) A production company
+6,Where did the filming of The Godfather take place?,New York City and in Sicily, (A) Los Angeles and New York City (B) Los Angeles and Sicily (C) New York City and in Sicily (D) New York City and in Florida
+7,Who composed the musical score for The Godfather?,Nino Rota, (A) John Williams (B) Anthony Mendoza (C) Paul Newman (D) Nino Rota ; $mcoptions$ = (A) John Williams (D) Nino Rota
+8,When was The Godfather released in the United States?,"March 24, 1972"," (A) December 19, 1971 (B) January 2, 1972 (C) March 24, 1972 (D) April 24, 1973"
+9,How much did The Godfather earn at the box office?,$250 and $291 million, (A) $90 million (B) $90 million (C) $250 and $291 million (D) $250 and $390 million
+10,What did the Godfather receive from critics and audiences?,universal acclaim, (A) critical acclaim (B) critical retraction (C) universal acclaim (D) financial gain
+11,"Which film acted as a catalyst for Coppola, Pacino, and other relative newcomers in the cast and crew?",The Godfather, (A) The Sandman (B) The Godfather (C) The Lion King (D) The Shining Path
+12,Whose career was revitalized by The Godfather?,Brando, (A) Bradley (B) Brando (C) Anthony (D) Jessica
+13,At what time was The Godfather released?,45, (A) 1 (B) 45 (C) 40 (D) 50 ; $mcoptions$ = (A) 45 (B) 50 (C) 60 (D) 70
