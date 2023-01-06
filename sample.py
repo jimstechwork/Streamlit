@@ -8,8 +8,8 @@ import streamlit as st
 # Welcome to Streamlit!
 
 This webpage shows you an interesting set of mutliple choice questions generated through NLP on your favourite topics.
-We hope it would be interesting :)
-Please take a look.
+
+We hope it would be interesting. Please take a look.
 """
 
 """
@@ -45,4 +45,6 @@ st.dataframe(data2)
 We hope you enjoyed seeing this output played as part of MCQ Demo
 
 
+
+THANK YOU. BYE FOR NOW..
 """
